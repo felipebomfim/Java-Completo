@@ -11,9 +11,9 @@ public class Exercise1 {
 		int soma;
 		
 		int1 = sc.nextInt();
-		sc.nextLine();
+//		sc.nextLine();
 		int2 = sc.nextInt();
-		sc.nextLine();
+//		sc.nextLine();
 		
 		soma = int1+int2;
 		
