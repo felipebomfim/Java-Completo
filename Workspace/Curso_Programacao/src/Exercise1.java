@@ -20,7 +20,7 @@ public class Exercise1 {
 		System.out.printf("Record: %d years old, code %d and gender: %c\n\n", age, code, gender);
 		
 		System.out.printf("Measue with eight decimal places: %.8f\n", measure);
-		System.out.printf("Rouded (three decimal places): %.3f\n", measure);
+		System.out.printf("Rounded (three decimal places): %.3f\n", measure);
 		Locale.setDefault(Locale.US);
 		System.out.printf("US decimal point: %.3f\n", measure);		
 		
